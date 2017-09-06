@@ -1,6 +1,1 @@
-<html>
-<head>
-<title>JoeLiao的应试界面</title>
-<bgsound loop="infinite" src="...result.mid">
-</head>
-<body>
+国宝啊 我现在的这个域名就挂在腾讯云 而且没有备案  By.JoeLiao
