@@ -1,3 +1,6 @@
-print（'Hello World'）
-向吧主问好
-By JoeLiao
+<html>
+<head>
+<title>标题</title>
+<bgsound loop="infinite" src="result.mid">
+</head>
+<body>
